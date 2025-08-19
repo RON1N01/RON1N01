@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to RON1N Lab Notes
+Exploring offensive, defensive & cloud security | Documenting experiments and side projects  
 
-<!--
-**RON1N01/RON1N01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [Website](https://ron1n01.com) | [Resume](https://ron1n01.github.io) | [Contact](mailto:contact@ron1n01.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Current Focus
+- Security+ certification prep  
+- Red vs Blue lab experiments  
+- Cloud security deep dives  
+
+---
+
+## 🛠️ Projects & Experiments
+- [Cyber Range Bash Tools](#) – custom scripts & automation for security labs  
+- [Blue Team Playbook](#) – defensive notes & detection use cases  
+- [Cloud Config Experiments](#) – testing IAM, policies & attack paths  
+- (…and more in pinned repos below 👇)  
+
+---
+
+*"Not just consuming tech — testing, breaking, and building it."*

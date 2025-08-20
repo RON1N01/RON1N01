@@ -76,7 +76,7 @@ Exploring offensive, defensive & cloud security — documenting experiments and 
 - **Security+ study path** — structured notes, labs, and practice.  
 - **Bash scripting** — automation, terminal effects, renaming scripts, timers.  
 - **GitHub Pages** — running my site with Jekyll + GitHub Actions.  
-- **Cyber log (Lab Notes)** — writing findings in a consistent “experiment” format.  
+- **Lab Notes** — documenting findings in a consistent “experiment” format.   
 
 ---
 

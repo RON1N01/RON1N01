@@ -8,6 +8,9 @@
 █  █  █████ █   █ █████ █   █ █████ █████
 </pre>
 
+
+---
+
 Exploring offensive, defensive & cloud security — documenting experiments and side projects.  
 
 🔗 **Links:** [Website](https://ron1n01.com) · [Resume](https://ron1n01.github.io) · [Contact](mailto:contact@ron1n01.com)
@@ -21,12 +24,26 @@ Exploring offensive, defensive & cloud security — documenting experiments and 
 
 ---
 
-## 🧰 Tools & Stack
-![Bash](https://img.shields.io/badge/Shell-Bash-black?logo=gnu-bash)
-![Git](https://img.shields.io/badge/Version-Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/Hub-GitHub-lightgrey?logo=github)
-![Jekyll](https://img.shields.io/badge/Static%20Site-Jekyll-red?logo=jekyll)
-![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux)
+## 🔧 Skills & Tools
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=for-the-badge&logo=github&logoColor=fff)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=fff)  
+![Jekyll](https://img.shields.io/badge/Jekyll-red?style=for-the-badge&logo=jekyll)  
+![AzureAD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure)  
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft)  
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco)  
+
+---
+
+## 📜 Certifications & Training  
+- 🛡️ **CompTIA Security+ (in progress)**  
+- 🌐 **TryHackMe: Attacking & Defending AWS** *(Certificate of Completion, June 2025)*  
+- 📡 **CCNA (roadmap, employer-sponsored)**  
+- 🕵️ **TCM Security OSINT / Red Team training (planned)**  
+- 🔴 **OSCP (future level-up goal — profile turns red!)**  
 
 ---
 
@@ -46,11 +63,11 @@ Exploring offensive, defensive & cloud security — documenting experiments and 
 ---
 
 ## 📫 Contact
-- Email: **contact@ron1n01.com**  
-- Site: **https://ron1n01.com**
+📧 **contact@ron1n01.com**  
+🌐 **https://ron1n01.com**
 
 ---
 
-> _“Not just consuming tech — testing, building, and sharing it.”_
+> _“Not just consuming tech — testing, building, and sharing it.”_  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RON1N01&color=grey)

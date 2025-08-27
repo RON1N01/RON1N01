@@ -15,7 +15,7 @@
 
 Exploring offensive, defensive & cloud security — documenting experiments and side projects.  
 
-🔗 **Links:** [Website](https://ron1n01.com) · [Resume](https://ron1n01.github.io) · [Contact](mailto:contact@ron1n01.com) · [Twitch](https://www.twitch.tv/ron1n0101) · [YouTube](ttps://www.youtube.com/@RON1N01-01)
+🔗 **Links:** [Website](https://ron1n01.com) · [Resume](https://ron1n01.github.io) · [Contact](mailto:contact@ron1n01.com) · [Twitch](https://www.twitch.tv/ron1n0101) · [YouTube](https://www.youtube.com/@RON1N01-01)
 
 ---
 

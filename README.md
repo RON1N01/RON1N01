@@ -12,11 +12,6 @@
 ---
 
 # R0N1N01
-
-Exploring offensive, defensive & cloud security — documenting experiments and side projects.  
-
-# RON1N01
-
 Security+ certified. Building capability across offensive security with strong blue-team grounding: identity, endpoint management, and investigation-focused tooling. Documenting side-projects and small utilities that solve real operator problems.  [oai_citation:1‡GitHub](https://github.com/RON1N01)
 
 Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.io · Contact: contact@ron1n01.com  [oai_citation:2‡GitHub](https://github.com/RON1N01)

@@ -15,14 +15,16 @@
 
 Exploring offensive, defensive & cloud security — documenting experiments and side projects.  
 
-🔗 **Links:** [Website](https://ron1n01.com) · [Resume](https://ron1n01.github.io) · [Contact](mailto:contact@ron1n01.com) · [Twitch](https://www.twitch.tv/ron1n0101) · [YouTube](https://www.youtube.com/@RON1N01-01)
+# RON1N01
 
----
+Security+ certified. Building capability across offensive security with strong blue-team grounding: identity, endpoint management, and investigation-focused tooling. Documenting side-projects and small utilities that solve real operator problems.  [oai_citation:1‡GitHub](https://github.com/RON1N01)
 
-## 🛡️ Focus & Status
-![Security+ In Progress](https://img.shields.io/badge/Security%2B-In%20Progress-blue)
-![Cyber Range](https://img.shields.io/badge/TryHackMe-Active-green)
-![Cloud Security](https://img.shields.io/badge/Cloud-Soon-informational)
+Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.io · Contact: contact@ron1n01.com  [oai_citation:2‡GitHub](https://github.com/RON1N01)
+
+## Focus
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Certified-success)
+![PT1](https://img.shields.io/badge/TryHackMe-PT1%20In%20Progress-informational)
+![eJPTv2](https://img.shields.io/badge/INE-eJPTv2%20Next-blue)
 
 ---
 
@@ -42,57 +44,31 @@ Exploring offensive, defensive & cloud security — documenting experiments and 
   <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco"/>
 </p>
 
-### 🖥️ Technical
-- **Operating Systems**: Kali Linux, ParrotOS, Tails, Windows (endpoint configuration), Virtual Machines.  
-- **Scripting & Productivity**: Bash, Vim navigation, Tmux, apt package management, Seclists.  
-- **Programming**: Python (pip3, virtual environments).  
-- **Cybersecurity**: Subdomain enumeration (Subfinder), onboarding/offboarding forms, exhibit/document handling, file backups (SharePoint).  
-- **Cloud**: AWS (Lambda, API Gateway, fundamentals).  
+## What I do
+- Build small, reliable tools that reduce analyst friction (time normalization, parsing, shell automation).
+- Train like an operator: fundamentals, repeatable workflows, clean documentation, and measurable drills.
+- Work fluently in CLI-first environments (macOS + Linux) and keep configs versioned and portable.  [oai_citation:3‡GitHub](https://github.com/RON1N01/.dotfiles)
 
-### ⚙️ IT Support
-- Troubleshooting audio/video & proprietary tech in high-stress environments.  
-- Exhibit & PDF management.  
-- IT support for remote and in-person events, depositions, and law firm environments.  
-- Vendor coordination and remediation.  
-- Training new remote employees.  
+## Core strengths
+- Identity and endpoint operations mindset (authentication, access, auditability, and investigation workflows).
+- Shell and systems fundamentals (bash primitives, repeatable automation patterns).
+- Documentation as a deliverable: lab notes structured for replay and learning transfer.  [oai_citation:4‡GitHub](https://github.com/RON1N01/shell-primitives)
 
-### 🌐 Projects & Process
-- Slack management & workflow streamlining.  
-- Mobile Windows endpoint configuration.  
-- Real-life Mario Kart, group hikes, group events (project management + logistics).  
+## Featured repositories
+- **Entra Zulu Converter (ELZC)**: Converts Entra ID (Azure AD) sign-in and audit CSV timestamps from UTC (Zulu) into PST/PDT for accurate timeline reconstruction. Includes standalone binaries and clear limitations.  [oai_citation:5‡GitHub](https://github.com/RON1N01/entra-zulu-converter)  
+  Repo: https://github.com/RON1N01/entra-zulu-converter
 
-### 🎤 Leadership & Volunteering
-- Public speaking (2x/month across San Diego, audiences of 110+).  
-- Lectures on self-actualization, personal growth, spiritual progress.  
-- Event coordination, project management, and last-minute crisis handling.  
+- **shell-primitives**: Small foundational scripts designed to reinforce core shell and systems concepts through focused implementations.  [oai_citation:6‡GitHub](https://github.com/RON1N01/shell-primitives)  
+  Repo: https://github.com/RON1N01/shell-primitives
 
-### 💡 Soft Skills
-- Perform well under stress; calm, logical, proactive decision-making.  
-- Punctual, reliable, strong communication in technical and non-technical settings.  
+- **ron1n01.com (site source)**: Jekyll-based lab notes site repo: posts, structure, and publishing workflow.  [oai_citation:7‡GitHub](https://github.com/RON1N01/RON1N01.github.io)  
+  Repo: https://github.com/RON1N01/RON1N01.github.io
 
----
+- **.dotfiles**: Versioned operator environment: zsh, vim, tmux, and related configs.  [oai_citation:8‡GitHub](https://github.com/RON1N01/.dotfiles)  
+  Repo: https://github.com/RON1N01/.dotfiles
 
-## 🧪 Current Experiments
-- **Security+ study path** — structured notes, labs, and practice.  
-- **Bash scripting** — automation, terminal effects, renaming scripts, timers.  
-- **GitHub Pages** — running my site with Jekyll + GitHub Actions.  
-- **Lab Notes** — documenting findings in a consistent “experiment” format.   
-
----
-
-## 🗂️ Projects & Repos
-- `ascii-resume` — terminal-styled resume with progress bars & neon colors.  
-- `jekyll-site` — personal site + “Lab Notes” hosted via GitHub Pages.  
-- `bash-scripts` — fun & practical shell projects (file renaming, timers, hacker effects).  
-
----
-
-## 📫 Contact
-- Email: **contact@ron1n01.com**  
-- Site: **https://ron1n01.com**
-
----
-
-> _“Not just consuming tech — testing, building, and sharing it.”_
+## Contact
+- contact@ron1n01.com
+- https://ron1n01.com  [oai_citation:9‡GitHub](https://github.com/RON1N01)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RON1N01&color=grey)

@@ -12,9 +12,9 @@
 ---
 
 # R0N1N01
-Security+ certified. Building capability across offensive security with strong blue-team grounding: identity, endpoint management, and investigation-focused tooling. Documenting side-projects and small utilities that solve real operator problems.  [oai_citation:1‡GitHub](https://github.com/RON1N01)
+Security+ certified. Building capability across offensive security with strong blue-team grounding: identity, endpoint management, and investigation-focused tooling. Documenting side-projects and small utilities that solve real operator problems.  (https://github.com/RON1N01)
 
-Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.io · Contact: contact@ron1n01.com  [oai_citation:2‡GitHub](https://github.com/RON1N01)
+Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.io · Contact: contact@ron1n01.com  (https://github.com/RON1N01)
 
 ## Focus
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Certified-success)
@@ -23,7 +23,7 @@ Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
@@ -42,28 +42,28 @@ Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.
 ## What I do
 - Build small, reliable tools that reduce analyst friction (time normalization, parsing, shell automation).
 - Train like an operator: fundamentals, repeatable workflows, clean documentation, and measurable drills.
-- Work fluently in CLI-first environments (macOS + Linux) and keep configs versioned and portable.  [oai_citation:3‡GitHub](https://github.com/RON1N01/.dotfiles)
+- Work fluently in CLI-first environments (macOS + Linux) and keep configs versioned and portable.  (https://github.com/RON1N01/.dotfiles)
 
 ## Core strengths
 - Identity and endpoint operations mindset (authentication, access, auditability, and investigation workflows).
 - Shell and systems fundamentals (bash primitives, repeatable automation patterns).
-- Documentation as a deliverable: lab notes structured for replay and learning transfer.  [oai_citation:4‡GitHub](https://github.com/RON1N01/shell-primitives)
+- Documentation as a deliverable: lab notes structured for replay and learning transfer.  (https://github.com/RON1N01/shell-primitives)
 
 ## Featured repositories
-- **Entra Zulu Converter (ELZC)**: Converts Entra ID (Azure AD) sign-in and audit CSV timestamps from UTC (Zulu) into PST/PDT for accurate timeline reconstruction. Includes standalone binaries and clear limitations.  [oai_citation:5‡GitHub](https://github.com/RON1N01/entra-zulu-converter)  
+- **Entra Zulu Converter (ELZC)**: Converts Entra ID (Azure AD) sign-in and audit CSV timestamps from UTC (Zulu) into PST/PDT for accurate timeline reconstruction. Includes standalone binaries and clear limitations.  (https://github.com/RON1N01/entra-zulu-converter)  
   Repo: https://github.com/RON1N01/entra-zulu-converter
 
-- **shell-primitives**: Small foundational scripts designed to reinforce core shell and systems concepts through focused implementations.  [oai_citation:6‡GitHub](https://github.com/RON1N01/shell-primitives)  
+- **shell-primitives**: Small foundational scripts designed to reinforce core shell and systems concepts through focused implementations.  (https://github.com/RON1N01/shell-primitives)  
   Repo: https://github.com/RON1N01/shell-primitives
 
-- **ron1n01.com (site source)**: Jekyll-based lab notes site repo: posts, structure, and publishing workflow.  [oai_citation:7‡GitHub](https://github.com/RON1N01/RON1N01.github.io)  
+- **ron1n01.com (site source)**: Jekyll-based lab notes site repo: posts, structure, and publishing workflow.  (https://github.com/RON1N01/RON1N01.github.io)  
   Repo: https://github.com/RON1N01/RON1N01.github.io
 
-- **.dotfiles**: Versioned operator environment: zsh, vim, tmux, and related configs.  [oai_citation:8‡GitHub](https://github.com/RON1N01/.dotfiles)  
+- **.dotfiles**: Versioned operator environment: zsh, vim, tmux, and related configs.  (https://github.com/RON1N01/.dotfiles)  
   Repo: https://github.com/RON1N01/.dotfiles
 
 ## Contact
 - contact@ron1n01.com
-- https://ron1n01.com  [oai_citation:9‡GitHub](https://github.com/RON1N01)
+- https://ron1n01.com  (https://github.com/RON1N01)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RON1N01&color=grey)

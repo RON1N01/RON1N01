@@ -19,7 +19,7 @@ Links: Website: https://ron1n01.com · Portfolio/Resume: https://ron1n01.github.
 
 ---
 
-## Skills & Tools
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
